@@ -1,0 +1,14 @@
+@import "colors.css";
+
+.home-middle-container {
+    display: grid;
+    grid-gap: 6px;
+    background-color: var(--dark-grey);
+    border-radius: 10px;
+    border: white solid;
+    position: fixed;
+    bottom: 13%;
+    top: 14%;
+    width: 98%;
+    padding: 6px;
+}

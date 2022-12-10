@@ -1,0 +1,20 @@
+@import "colors.css";
+
+.repository-container {
+    background-color: var(--dark-grey);
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.repository-container img {
+    background-color: white;
+    width: 100%;
+    height: 150px;
+}
+
+.repository-infos {
+    padding-top: 10px;
+}

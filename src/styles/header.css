@@ -1,0 +1,8 @@
+@import "colors.css";
+
+.header-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: var(--light-purple);
+}
